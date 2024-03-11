@@ -1,0 +1,15 @@
+Introduction to Application Security: Basic concepts of application security, including common vulnerabilities such as injection flaws, cross-site scripting (XSS), and insecure direct object references.
+
+Secure Coding Practices: Best practices for writing secure code, including input validation, output encoding, authentication, and authorization.
+
+Veracode Platform Overview: Understanding the Veracode platform, including how to set up and configure scans, interpret scan results, and prioritize and remediate findings.
+
+Static Analysis: Understanding how static analysis works, including how to configure scans, interpret static analysis findings, and fix security issues identified by static analysis.
+
+Dynamic Analysis: Understanding how dynamic analysis works, including how to configure scans, interpret dynamic analysis findings, and fix security issues identified by dynamic analysis.
+
+Software Composition Analysis (SCA): Understanding the importance of managing open-source components and third-party libraries, including how to use Veracode's Software Composition Analysis features to identify and mitigate security risks introduced by third-party code.
+
+Integration with Development Workflow: Best practices for integrating Veracode into the software development lifecycle, including automating scans, integrating with build systems and CI/CD pipelines, and incorporating security testing into the development process.
+
+Case Studies and Hands-on Exercises: Real-world examples and hands-on exercises to reinforce learning and demonstrate practical application of secure coding practices and Veracode's tools.
