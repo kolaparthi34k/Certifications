@@ -1,0 +1,19 @@
+Secure Software Development Lifecycle (SDLC): Understanding the importance of security throughout the software development lifecycle and implementing security measures at each stage of development.
+
+Secure Coding Practices: Best practices for writing secure code, including input validation, output encoding, authentication, authorization, and protecting against common vulnerabilities such as injection flaws, cross-site scripting (XSS), and insecure direct object references.
+
+Threat Modeling: Techniques for identifying and mitigating security risks in software applications through threat modeling exercises.
+
+Security Testing: Understanding different types of security testing, including static analysis, dynamic analysis, and software composition analysis, and how to incorporate them into the development process.
+
+Security Standards and Regulations: Familiarity with relevant security standards and regulations, such as OWASP Top 10, CWE/SANS Top 25, PCI DSS, and GDPR, and ensuring compliance with these standards in software development.
+
+Veracode Platform Overview: Understanding the Veracode platform, including how to set up and configure scans, interpret scan results, and prioritize and remediate findings.
+
+Integration with Development Workflow: Best practices for integrating Veracode into the software development lifecycle, including automating scans, integrating with build systems and CI/CD pipelines, and incorporating security testing into the development process.
+
+Continuous Improvement: Implementing processes for continuous improvement of security practices and addressing security vulnerabilities identified during development and testing.
+
+Documentation and Reporting: Generating reports and documentation to demonstrate the security posture of software products and provide assurance to customers and stakeholders.
+
+Third-Party Risk Management: Managing security risks associated with third-party components and dependencies, including open-source libraries and third-party services.
